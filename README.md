@@ -15,7 +15,7 @@ Guide on how to use Datasync: [Setting Up a Basic DataSync Job](http://support.s
 The Socrata University Class: [Socrata Introduction to Integration](http://socrata.wistia.com/medias/q4pwut6s56)
 
 ### Standard Jobs
-Standard jobs can be set up to take a CSV data file from a local machine or networked folder and publish it to a specific dataset. A job can be automated easily using the Windows Task Scheduler or similar tool to run the job at specified intervals (i.e. once per day).
+Standard jobs can be set up to take a CSV data file from a local machine or networked folder and publish it to a specific dataset. A job can be automated easily using the Windows Task Scheduler, Cron, or a similar tool to run the job at specified intervals (i.e. once per day).
 ![standard job tab](http://i.imgur.com/byN0ibq.png?1)
 
 ### Port Jobs
